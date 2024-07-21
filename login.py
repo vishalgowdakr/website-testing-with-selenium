@@ -1,8 +1,8 @@
 from typing import List, Optional
 from selenium import webdriver
-from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 from pydantic import BaseModel
+from selenium.webdriver.firefox.webdriver import WebDriver
 
 class LoginInput(BaseModel):
     login: Optional[str]
@@ -36,7 +36,7 @@ class LoginTest():
                     password=None,
                 ),
                 expected_output=LoginOutput(
-                    msg="This password is incorrect"
+                    msg="All fields are required"
                 )
             ),
             LoginTestCase(
@@ -46,7 +46,7 @@ class LoginTest():
                     password=None,
                 ),
                 expected_output=LoginOutput(
-                    msg="This password is incorrect"
+                    msg="All fields are required"
                 )
             ),
             LoginTestCase(
@@ -66,7 +66,7 @@ class LoginTest():
                     password="helloworld",
                 ),
                 expected_output=LoginOutput(
-                    msg="This password is incorrect"
+                    msg=f"This password is incorrect.\nForgot / Reset password?"
                 )
             ),
             LoginTestCase(
@@ -96,7 +96,7 @@ class LoginTest():
                     password=None,
                 ),
                 expected_output=LoginOutput(
-                    msg="This password is incorrect"
+                    msg="All fields are required"
                 )
             ),
             LoginTestCase(
@@ -106,7 +106,7 @@ class LoginTest():
                     password=None,
                 ),
                 expected_output=LoginOutput(
-                    msg="This password is incorrect"
+                    msg="All fields are required"
                 )
             ),
             LoginTestCase(
@@ -126,7 +126,7 @@ class LoginTest():
                     password="helloworld",
                 ),
                 expected_output=LoginOutput(
-                    msg="This password is incorrect"
+                    msg=f"This password is incorrect.\nForgot / Reset password?"
                 )
             ),
             LoginTestCase(
@@ -140,12 +140,35 @@ class LoginTest():
                 )
             ),
         ]
+        driver = webdriver.Firefox()
+        driver.get("https://chess.com/login")
         for tc in test_cases:
             print(f"Running test case: {tc.name}")
-            output: LoginOutput = self.login(tc.input)
+            self.login(tc, driver)
+        driver.close()
 
-    def login(self, input: LoginInput):
-        driver = webdriver.Chrome()
-        driver.get("https://chess.com/login")
-        driver.find_element(by=By.XPATH, value="/html/body/div[1]/div/main/div/form/div[1]/div/div/input").send_keys(input.login)
-        driver.find_element(by=By.XPATH, value="/html/body/div[1]/div/main/div/form/div[2]/div/div/input").send_keys((input.password))
+    def login(self, tc: LoginTestCase, driver: WebDriver):
+        if tc.name == "Null username":
+            driver.get("https://chess.com/login")
+        if tc.input.login != None:
+            driver.find_element(by=By.XPATH, value="/html/body/div[1]/div/main/div/form/div[1]/div/div/input").clear()
+            driver.find_element(by=By.XPATH, value="/html/body/div[1]/div/main/div/form/div[1]/div/div/input").send_keys(tc.input.login)
+        if tc.input.password != None:
+            driver.find_element(by=By.XPATH, value="/html/body/div[1]/div/main/div/form/div[2]/div/div/input").clear()
+            driver.find_element(by=By.XPATH, value="/html/body/div[1]/div/main/div/form/div[2]/div/div/input").send_keys((tc.input.password))
+        driver.find_element(by=By.ID, value="login").click()
+        if (tc.name == "Registered username and valid password" or tc.name == "Registered email and valid password"):
+            if driver.current_url != "https://www.chess.com/home":
+                print(driver.current_url)
+            driver.get("https://www.chess.com/logout")
+            driver.find_element(by=By.XPATH, value="/html/body/div[2]/div/span/form/button").click()
+            driver.get("https://www.chess.com/login")
+            return
+        else:
+            output = driver.find_element(by=By.CLASS_NAME, value="authentication-login-error").text
+        if output != tc.expected_output.msg:
+            print("Expected Message: "+tc.expected_output.msg+f"\nActual Message: "+output)
+
+
+test = LoginTest()
+test.test()

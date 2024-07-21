@@ -484,3 +484,992 @@ c@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:758:
 [Parent 4625, IPC I/O Parent] WARNING: process 5502 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
 [Parent 4625, IPC I/O Parent] WARNING: process 5507 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
 [Parent 4625, IPC I/O Parent] WARNING: process 5573 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721556752517	geckodriver	INFO	Listening on 127.0.0.1:50549
+1721556753026	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesvm039"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721556753855	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721556754054	Marionette	INFO	Listening on port 34503
+Read port: 34503
+WebDriver BiDi listening on ws://127.0.0.1:58001
+1721556754480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58001/devtools/browser/eac8c081-b6da-4f5e-8f15-8125e68d433a
+[Parent 7788, IPC I/O Parent] WARNING: process 7930 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721556784004	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c, line 626: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:87
+h.Jk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:410
+
+1721556907901	Marionette	INFO	Stopped listening on port 34503
+[Parent 7788, IPC I/O Parent] WARNING: process 7993 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7788, IPC I/O Parent] WARNING: process 7902 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7788, IPC I/O Parent] WARNING: process 7996 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7788, IPC I/O Parent] WARNING: process 8006 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7788, IPC I/O Parent] WARNING: process 8070 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721556920238	geckodriver	INFO	Listening on 127.0.0.1:49867
+1721556920243	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJGcklJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721556921154	Marionette	INFO	Marionette enabled
+1721556921351	Marionette	INFO	Listening on port 42737
+Read port: 42737
+WebDriver BiDi listening on ws://127.0.0.1:58653
+1721556921776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58653/devtools/browser/933bae18-665c-47a8-a07f-07cbbf9b3004
+[Parent 8276, IPC I/O Parent] WARNING: process 8411 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1721556951192	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721556953266	geckodriver	INFO	Listening on 127.0.0.1:52863
+1721556953771	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT1Kspt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721556954693	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721556954905	Marionette	INFO	Listening on port 37149
+Read port: 37149
+WebDriver BiDi listening on ws://127.0.0.1:38285
+1721556955372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: ({})
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+DevTools listening on ws://127.0.0.1:38285/devtools/browser/2470fb8a-c761-423c-93a0-4668ff7b27a5
+[Parent 8600, IPC I/O Parent] WARNING: process 8738 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c, line 628: Script terminated by timeout at:
+h.rh@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:628:30
+get@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:87
+h.Jk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:410
+
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+console.error: CustomizableUI: 
+  TypeError: aNode is null -- resource:///modules/CustomizableUI.sys.mjs:1715
+1721556967390	Marionette	INFO	Stopped listening on port 42737
+[Parent 8276, IPC I/O Parent] WARNING: process 8473 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8276, IPC I/O Parent] WARNING: process 8381 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/newtab-wallpapers-v2 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+[Parent 8276, IPC I/O Parent] WARNING: process 8503 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8276, IPC I/O Parent] WARNING: process 8549 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8276, IPC I/O Parent] WARNING: process 8480 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721556985589	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721556990403	Marionette	INFO	Stopped listening on port 37149
+[Parent 8600, IPC I/O Parent] WARNING: process 8801 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8600, IPC I/O Parent] WARNING: process 8709 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-web-preview getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+[Parent 8600, IPC I/O Parent] WARNING: process 8808 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8600, IPC I/O Parent] WARNING: process 8894 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8600, IPC I/O Parent] WARNING: process 8829 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557041519	geckodriver	INFO	Listening on 127.0.0.1:35045
+1721557041524	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesOktSx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721557042368	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721557042577	Marionette	INFO	Listening on port 46193
+Read port: 46193
+WebDriver BiDi listening on ws://127.0.0.1:50913
+1721557043043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50913/devtools/browser/fa554a29-366e-4432-be9f-29afea561d49
+[Parent 9011, IPC I/O Parent] WARNING: process 9147 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557072384	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721557146022	Marionette	INFO	Stopped listening on port 46193
+[Parent 9011, IPC I/O Parent] WARNING: process 9215 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9011, IPC I/O Parent] WARNING: process 9116 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9011, IPC I/O Parent] WARNING: process 9221 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9011, IPC I/O Parent] WARNING: process 9259 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9011, IPC I/O Parent] WARNING: process 9297 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557610437	geckodriver	INFO	Listening on 127.0.0.1:48469
+1721557610442	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaRGqYd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721557611337	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721557611491	Marionette	INFO	Listening on port 36559
+Read port: 36559
+WebDriver BiDi listening on ws://127.0.0.1:54759
+1721557611933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54759/devtools/browser/f3947e76-6c0f-45b4-9807-fbd4c2c2f7b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+[Parent 9706, IPC I/O Parent] WARNING: process 9844 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557642977	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721557675963	geckodriver	INFO	Listening on 127.0.0.1:56147
+1721557676472	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNSyFJf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721557677376	Marionette	INFO	Marionette enabled
+1721557677572	Marionette	INFO	Listening on port 46835
+Read port: 46835
+WebDriver BiDi listening on ws://127.0.0.1:43459
+1721557678109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1721557678381	Marionette	INFO	Stopped listening on port 36559
+[Parent 9706, IPC I/O Parent] WARNING: process 9906 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9706, IPC I/O Parent] WARNING: process 9815 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9706, IPC I/O Parent] WARNING: process 9912 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9706, IPC I/O Parent] WARNING: process 9930 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9706, IPC I/O Parent] WARNING: process 9988 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43459/devtools/browser/0226eaac-266f-4f67-8aff-89afdd479989
+[Parent 10108, IPC I/O Parent] WARNING: process 10249 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557709488	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69818
+
+1721557734567	Marionette	INFO	Stopped listening on port 46835
+[Parent 10108, IPC I/O Parent] WARNING: process 10331 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10108, IPC I/O Parent] WARNING: process 10216 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10108, IPC I/O Parent] WARNING: process 10333 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10108, IPC I/O Parent] WARNING: process 10342 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10108, IPC I/O Parent] WARNING: process 10420 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557742714	geckodriver	INFO	Listening on 127.0.0.1:44573
+1721557742719	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSECWUK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721557743552	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721557744100	Marionette	INFO	Listening on port 42079
+WebDriver BiDi listening on ws://127.0.0.1:48937
+Read port: 42079
+1721557744330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48937/devtools/browser/c9ec50e6-1496-48bf-a1ad-f3b2d024af32
+[Parent 10478, IPC I/O Parent] WARNING: process 10619 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557775939	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+1721557900527	Marionette	INFO	Stopped listening on port 42079
+[Parent 10478, IPC I/O Parent] WARNING: process 10705 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10478, IPC I/O Parent] WARNING: process 10590 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10478, IPC I/O Parent] WARNING: process 10721 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10478, IPC I/O Parent] WARNING: process 10712 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557903008	geckodriver	INFO	Listening on 127.0.0.1:43289
+1721557903515	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewVNxVV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721557904350	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721557904536	Marionette	INFO	Listening on port 36893
+Read port: 36893
+WebDriver BiDi listening on ws://127.0.0.1:46515
+1721557904990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46515/devtools/browser/495ec994-de75-4ae3-8858-7a6da5f7ec73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+[Parent 11008, IPC I/O Parent] WARNING: process 11143 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721557937720	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1721558012166	geckodriver	INFO	Listening on 127.0.0.1:58337
+1721558012675	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKUMGCM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721558016331	geckodriver	INFO	Listening on 127.0.0.1:40829
+1721558016336	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6Gb2TI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721558017191	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721558017381	Marionette	INFO	Listening on port 33929
+Read port: 33929
+WebDriver BiDi listening on ws://127.0.0.1:43363
+1721558017833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c, line 628: Script terminated by timeout at:
+h.rh@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:628:30
+get@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:87
+h.Jk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:626:410
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.process3//domnode241, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1721558018843	Marionette	INFO	Stopped listening on port 36893
+[Parent 11008, IPC I/O Parent] WARNING: process 11113 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 11008, IPC I/O Parent] WARNING: process 11230 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 11008, IPC I/O Parent] WARNING: process 11290 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43363/devtools/browser/aee24b64-9aa8-450c-9c3c-b79f8d3d3e27
+[Parent 11570, IPC I/O Parent] WARNING: process 11708 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+1721558048303	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1721558282204	Marionette	INFO	Stopped listening on port 33929
+[Parent 11570, IPC I/O Parent] WARNING: process 11781 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 11570, IPC I/O Parent] WARNING: process 11678 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 11570, IPC I/O Parent] WARNING: process 11797 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 11570, IPC I/O Parent] WARNING: process 11805 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 11570, IPC I/O Parent] WARNING: process 11878 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721558285832	geckodriver	INFO	Listening on 127.0.0.1:59069
+1721558285839	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewKCs9t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721558286683	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721558286886	Marionette	INFO	Listening on port 34793
+Read port: 34793
+WebDriver BiDi listening on ws://127.0.0.1:46183
+1721558287328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46183/devtools/browser/fdba5e97-11f3-4ad8-8a52-de63098e2ff1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.718bb6e9.js, line 1: Error: Request aborted
+[Parent 12124, IPC I/O Parent] WARNING: process 12259 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.718bb6e9.js, line 1: Error: Request aborted
+1721558317393	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69710
+
+1721558334625	Marionette	INFO	Stopped listening on port 34793
+[Parent 12124, IPC I/O Parent] WARNING: process 12325 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 12124, IPC I/O Parent] WARNING: process 12231 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 12124, IPC I/O Parent] WARNING: process 12407 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 12124, IPC I/O Parent] WARNING: process 12368 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 12124, IPC I/O Parent] WARNING: process 12331 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721560210311	geckodriver	INFO	Listening on 127.0.0.1:35301
+1721560210816	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegHlr09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721560211585	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721560211793	Marionette	INFO	Listening on port 44195
+Read port: 44195
+WebDriver BiDi listening on ws://127.0.0.1:33637
+1721560212163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33637/devtools/browser/27ada3ea-29db-4f68-a582-7998f014d776
+[Parent 3337, IPC I/O Parent] WARNING: process 3483 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 2406 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1721560241751	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 3337, IPC I/O Parent] WARNING: process 3550 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 1095 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 2817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69710
+
+1721560268042	Marionette	INFO	Stopped listening on port 44195
+[Parent 3337, IPC I/O Parent] WARNING: process 3547 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3755 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3903 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3860 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3878 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4106 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4128 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4159 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3971 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4069 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3963 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3702 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4064 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 3760 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4310 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4272 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3337, IPC I/O Parent] WARNING: process 4404 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721560397282	geckodriver	INFO	Listening on 127.0.0.1:59843
+1721560397287	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenNRlPv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721560398118	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721560398331	Marionette	INFO	Listening on port 39749
+Read port: 39749
+WebDriver BiDi listening on ws://127.0.0.1:33367
+1721560398757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33367/devtools/browser/2f7b9799-0c3a-4e99-9a00-7130d1c5d583
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+[Parent 4456, IPC I/O Parent] WARNING: process 4594 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 7185 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1721560428140	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 4456, IPC I/O Parent] WARNING: process 5240 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 5285 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 4999 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 4859 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 5170 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 5038 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69710
+
+1721560434555	Marionette	INFO	Stopped listening on port 39749
+[Parent 4456, IPC I/O Parent] WARNING: process 4659 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 4564 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 4681 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 5320 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 5359 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4456, IPC I/O Parent] WARNING: process 5364 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721560687754	geckodriver	INFO	Listening on 127.0.0.1:60057
+1721560687759	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7wFvKL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721560688604	Marionette	INFO	Marionette enabled
+1721560688800	Marionette	INFO	Listening on port 34165
+Read port: 34165
+WebDriver BiDi listening on ws://127.0.0.1:49101
+1721560689222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49101/devtools/browser/b2fd6fa9-ebb6-404e-864d-13b5a074a26a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+[Parent 5992, IPC I/O Parent] WARNING: process 6128 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 1529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1721560718626	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 5992, IPC I/O Parent] WARNING: process 6196 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 6522 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 6710 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 6778 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 6348 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 6669 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 6443 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 7445 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 5992, IPC I/O Parent] WARNING: process 7340 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process41//domwalker83, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process26//domwalker176, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process26//domwalker179, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process26//domwalker182, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process26//domwalker185, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.process3//domwalker129, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:417:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.process27//domwalker20, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:417:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.process27//domwalker20, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:417:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process3//domwalker129, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:417:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process27//domwalker20, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:417:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process27//domwalker20, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:417:26\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Unable to find target with innerWindowId:6442451010"
+console.error: "Unable to find target with innerWindowId:6442451010"
+console.error: "Unable to find target with innerWindowId:6442451054"
+console.error: "Unable to find target with innerWindowId:6442451056"
+console.error: "Unable to find target with innerWindowId:6442451054"
+console.error: "Unable to find target with innerWindowId:6442451056"
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 250: TypeError: this.targetFront is null
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+JavaScript error: resource://devtools/client/inspector/rules/models/text-property.js, line 140: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+JavaScript error: resource://devtools/client/inspector/rules/models/text-property.js, line 140: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+JavaScript error: resource://devtools/client/inspector/rules/models/text-property.js, line 140: TypeError: this.cssProperties is null
+JavaScript error: https://www.chess.com/chesscom-artifacts/packages/@chesscom/puzzles-client/3.6.2/puzzles-vendors.client.js, line 9: Error: Request failed with status code 403
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+JavaScript error: resource://devtools/client/inspector/rules/models/text-property.js, line 140: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+JavaScript error: resource://devtools/client/inspector/rules/models/text-property.js, line 140: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/text-property.js", 140))
+JavaScript error: resource://devtools/client/inspector/rules/models/text-property.js, line 140: TypeError: this.cssProperties is null
+JavaScript error: https://www.chess.com/bundles/app/js/chat-next.client.68530ae9.js, line 1: Error: Request aborted
+JavaScript error: https://static.vidazoo.com/basev/vwpt.js, line 9: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.process3//layout241, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: (new Error("Connection closed, pending request to server0.conn0.process3//pagestyle239, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Unable to find target with innerWindowId:6442451069"
+console.error: "Unable to find target with innerWindowId:6442451069"
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.process60//inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process60//inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.process60//inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.process50//inspectorActor33, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process50//inspectorActor33, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.process50//inspectorActor33, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.process50//inspectorActor72, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.process50//inspectorActor72, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.process50//inspectorActor72, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 3762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.process62//layout190, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 5537 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 6969 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: "Unable to find target with innerWindowId:6442451116"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.process3//layout1059, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\n", "resource://devtools/shared/protocol/Front.js", 105))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+[Parent 5992, IPC I/O Parent] WARNING: process 8256 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 3009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.process62//layout716, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:299:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\n", "resource://devtools/shared/protocol/Front.js", 105))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 1875 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442451144"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+[Parent 5992, IPC I/O Parent] WARNING: process 8329 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451142"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 5353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+console.error: (new TypeError("this.cssProperties is null", "resource://devtools/client/inspector/rules/models/rule.js", 582))
+JavaScript error: resource://devtools/client/inspector/rules/models/rule.js, line 582: TypeError: this.cssProperties is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/mSjjkhB1L59TV46DoVAaQ_9pMO7PZIKzyhBy6zc7xu8.js line 2 > eval line 3647 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1721560853889	Marionette	INFO	Stopped listening on port 34165
+[Parent 5992, IPC I/O Parent] WARNING: process 6193 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7615 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7610 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7993 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7861 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7866 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8223 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8261 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7980 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8147 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8047 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8254 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8093 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 7566 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8482 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5992, IPC I/O Parent] WARNING: process 8440 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721560855174	geckodriver	INFO	Listening on 127.0.0.1:45647
+1721560855179	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepklWDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721560855998	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721560856196	Marionette	INFO	Listening on port 39619
+Read port: 39619
+WebDriver BiDi listening on ws://127.0.0.1:37831
+1721560856624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37831/devtools/browser/5d93b2e2-d5dd-4aa2-a3fa-f385fe761fb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+1721560886012	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 8522, IPC I/O Parent] WARNING: process 8730 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69710
+
+1721560942381	Marionette	INFO	Stopped listening on port 39619
+[Parent 8522, IPC I/O Parent] WARNING: process 8657 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8522, IPC I/O Parent] WARNING: process 8724 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8522, IPC I/O Parent] WARNING: process 8629 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8522, IPC I/O Parent] WARNING: process 8749 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8522, IPC I/O Parent] WARNING: process 8874 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8522, IPC I/O Parent] WARNING: process 8807 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721560944690	geckodriver	INFO	Listening on 127.0.0.1:33421
+1721560945199	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSemQg3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721560946067	Marionette	INFO	Marionette enabled
+1721560946249	Marionette	INFO	Listening on port 43401
+Read port: 43401
+WebDriver BiDi listening on ws://127.0.0.1:44883
+1721560946671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44883/devtools/browser/51ed5d4a-d715-400f-b9e0-d0eb52243e0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+[Parent 8999, IPC I/O Parent] WARNING: process 9134 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1721560976221	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 8999, IPC I/O Parent] WARNING: process 9199 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721561066590	Marionette	INFO	Stopped listening on port 43401
+[Parent 8999, IPC I/O Parent] WARNING: process 9197 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8999, IPC I/O Parent] WARNING: process 9106 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8999, IPC I/O Parent] WARNING: process 9211 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8999, IPC I/O Parent] WARNING: process 9284 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8999, IPC I/O Parent] WARNING: process 9351 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721561530934	geckodriver	INFO	Listening on 127.0.0.1:41411
+1721561530939	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9nAxk0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721561531757	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721561531940	Marionette	INFO	Listening on port 34551
+Read port: 34551
+WebDriver BiDi listening on ws://127.0.0.1:57153
+1721561532365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57153/devtools/browser/42ec8c6b-dd1e-4323-9d3f-86f0745b9b5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.718bb6e9.js, line 1: Error: Request aborted
+[Parent 10295, IPC I/O Parent] WARNING: process 10430 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.718bb6e9.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/toaster-center.client.501a9e43.js, line 1: Error: Request failed with status code 401
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+1721561561942	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 10295, IPC I/O Parent] WARNING: process 10496 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69710
+
+1721561633643	Marionette	INFO	Stopped listening on port 34551
+[Parent 10295, IPC I/O Parent] WARNING: process 10493 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10295, IPC I/O Parent] WARNING: process 10402 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10295, IPC I/O Parent] WARNING: process 10504 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10295, IPC I/O Parent] WARNING: process 10582 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10295, IPC I/O Parent] WARNING: process 10639 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721561636587	geckodriver	INFO	Listening on 127.0.0.1:44381
+1721561636591	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo5iXmK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721561637422	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721561637604	Marionette	INFO	Listening on port 38379
+Read port: 38379
+WebDriver BiDi listening on ws://127.0.0.1:45543
+1721561638028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45543/devtools/browser/9cefea46-fb64-4450-9d90-01de642f131c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+[Parent 10760, IPC I/O Parent] WARNING: process 10895 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request failed with status code 401
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.953ce2de.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/chat-next.client.68530ae9.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.bca3d8b2.js, line 1: Error: Request failed with status code 401
+1721561660966	Marionette	INFO	Stopped listening on port 38379
+JavaScript warning: https://www.chess.com/bundles/app/js/global.client.9f38742e.js, line 1: Script terminated by timeout at:
+__webpack_require__.e@https://www.chess.com/bundles/app/js/global.client.9f38742e.js:1:1365
+__webpack_require__.e@https://www.chess.com/bundles/app/js/global.client.9f38742e.js:1:63296
+createUserPopover@https://www.chess.com/bundles/app/js/global-app-init.chunk.client.d04e00e6.js:1:66440
+init@https://www.chess.com/bundles/app/js/global-app-init.chunk.client.d04e00e6.js:1:66054
+initClient@https://www.chess.com/bundles/app/js/vue.dll.d9cff553.js:26:11510
+4750/initClients/t</</<@https://www.chess.com/bundles/app/js/vue.dll.d9cff553.js:26:15998
+4750/initClients/t</<@https://www.chess.com/bundles/app/js/vue.dll.d9cff553.js:26:15981
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69862
+
+[Parent 10760, IPC I/O Parent] WARNING: process 10867 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10760, IPC I/O Parent] WARNING: process 10958 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10760, IPC I/O Parent] WARNING: process 10963 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10760, IPC I/O Parent] WARNING: process 10980 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10760, IPC I/O Parent] WARNING: process 11046 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 10760, IPC I/O Parent] WARNING: process 11102 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
