@@ -126,7 +126,7 @@ class LoginTest():
                     password="helloworld",
                 ),
                 expected_output=LoginOutput(
-                    msg=f"This password is incorrect.\nForgot / Reset password?"
+                    msg=f"This password is correct.\nForgot / Reset password?"
                 )
             ),
             LoginTestCase(

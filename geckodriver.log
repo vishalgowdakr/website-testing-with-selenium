@@ -1473,3 +1473,537 @@ sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:
 [Parent 10760, IPC I/O Parent] WARNING: process 10980 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
 [Parent 10760, IPC I/O Parent] WARNING: process 11046 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
 [Parent 10760, IPC I/O Parent] WARNING: process 11102 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645381464	geckodriver	INFO	Listening on 127.0.0.1:54539
+1721645381969	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXMOGiX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721645382527	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721645382681	Marionette	INFO	Listening on port 42569
+Read port: 42569
+WebDriver BiDi listening on ws://127.0.0.1:52619
+1721645382965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52619/devtools/browser/2d48f184-d01a-490d-a524-d148d9433abf
+1721645384254	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 5336, IPC I/O Parent] WARNING: process 5482 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645404822	Marionette	INFO	Stopped listening on port 42569
+[Parent 5336, IPC I/O Parent] WARNING: process 5546 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5336, IPC I/O Parent] WARNING: process 5452 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5336, IPC I/O Parent] WARNING: process 5556 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5336, IPC I/O Parent] WARNING: process 5551 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5336, IPC I/O Parent] WARNING: process 5621 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645411742	geckodriver	INFO	Listening on 127.0.0.1:51683
+1721645411746	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFNByK9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721645412294	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721645412441	Marionette	INFO	Listening on port 40943
+Read port: 40943
+WebDriver BiDi listening on ws://127.0.0.1:42733
+1721645412724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42733/devtools/browser/61dcd11b-fb2f-4e82-b1fd-1292b25c8a90
+1721645413959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69710
+
+1721645419240	Marionette	INFO	Stopped listening on port 40943
+[Parent 5876, IPC I/O Parent] WARNING: process 6010 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5876, IPC I/O Parent] WARNING: process 6073 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5876, IPC I/O Parent] WARNING: process 5980 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5876, IPC I/O Parent] WARNING: process 6078 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5876, IPC I/O Parent] WARNING: process 6083 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5876, IPC I/O Parent] WARNING: process 6148 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645420214	geckodriver	INFO	Listening on 127.0.0.1:59609
+1721645420217	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei00eRm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721645420754	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721645420898	Marionette	INFO	Listening on port 39343
+Read port: 39343
+WebDriver BiDi listening on ws://127.0.0.1:52293
+1721645421181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52293/devtools/browser/6cc15213-e90b-4632-8817-50bb1ae1a83e
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 6228, IPC I/O Parent] WARNING: process 6361 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: https://player.kick.com/_ca/b.js, line 1: Script terminated by timeout at:
+h/<@https://player.kick.com/_ca/b.js:1:10886
+t@https://player.kick.com/_ca/b.js:1:10357
+
+[Parent 6228, IPC I/O Parent] WARNING: process 6431 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1721645437191	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 6228, IPC I/O Parent] WARNING: process 6436 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1721645449675	Marionette	INFO	Stopped listening on port 39343
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73, line 131: Script terminated by timeout at:
+xd@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:131:177
+h.invoke@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:115:428
+Pa@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:504
+Oa@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:303
+Od/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:139:20
+h.invoke@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:115:428
+Pa@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:504
+h.Ik@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:975
+He@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:149:782
+cz/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:416:345
+Df@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:159:92
+e@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:377:206
+cx@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:378:828
+ox@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:383:195
+gy@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:401:272
+jy@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:405:9
+ly@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:406:43
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69862
+
+[Parent 6228, IPC I/O Parent] WARNING: process 6331 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6228, IPC I/O Parent] WARNING: process 6426 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6228, IPC I/O Parent] WARNING: process 6596 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6228, IPC I/O Parent] WARNING: process 6494 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6228, IPC I/O Parent] WARNING: process 6674 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645509651	geckodriver	INFO	Listening on 127.0.0.1:42305
+1721645509656	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEtmhu0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721645510202	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721645510352	Marionette	INFO	Listening on port 44113
+Read port: 44113
+WebDriver BiDi listening on ws://127.0.0.1:43093
+1721645510637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43093/devtools/browser/fe1f97d1-317c-41f5-8bdc-fe0b414a124c
+1721645511856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1721645516329	Marionette	INFO	Stopped listening on port 44113
+[Parent 6767, IPC I/O Parent] WARNING: process 6904 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6767, IPC I/O Parent] WARNING: process 6966 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6767, IPC I/O Parent] WARNING: process 6876 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6767, IPC I/O Parent] WARNING: process 6971 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6767, IPC I/O Parent] WARNING: process 6976 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 6767, IPC I/O Parent] WARNING: process 7042 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645519903	geckodriver	INFO	Listening on 127.0.0.1:59895
+1721645519907	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFOqQeh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721645520446	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721645520610	Marionette	INFO	Listening on port 40545
+Read port: 40545
+WebDriver BiDi listening on ws://127.0.0.1:43589
+1721645520893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43589/devtools/browser/1c7bd5c7-04a1-49c1-ba84-73be48943e46
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 7084, IPC I/O Parent] WARNING: process 7216 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://player.kick.com/_ca/b.js, line 1: Script terminated by timeout at:
+h/<@https://player.kick.com/_ca/b.js:1:10886
+t@https://player.kick.com/_ca/b.js:1:10357
+
+[Parent 7084, IPC I/O Parent] WARNING: process 7287 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1721645537604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 7084, IPC I/O Parent] WARNING: process 7294 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1721645548654	Marionette	INFO	Stopped listening on port 40545
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73, line 407: Script terminated by timeout at:
+yx@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:407:219
+ux.prototype.enqueue@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:385:878
+vx@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:386:468
+XG@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:496:402
+Ig/c<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:169:187
+h.invoke@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:115:428
+Pa@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:504
+Oa@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:303
+Od/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:139:20
+h.invoke@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:115:428
+Pa@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:504
+h.Ik@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:87:975
+He@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:149:782
+cz/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:416:345
+Df@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:159:92
+e@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:377:206
+Eb/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:98:69
+Yw/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:378:382
+Ww/<@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:378:122
+cx@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:378:828
+ox@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:383:195
+gy@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:401:272
+jy@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:405:9
+ly@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:406:43
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.648e8f0e.js:14:69862
+
+[Parent 7084, IPC I/O Parent] WARNING: process 7282 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7084, IPC I/O Parent] WARNING: process 7376 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7084, IPC I/O Parent] WARNING: process 7514 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7084, IPC I/O Parent] WARNING: process 7453 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721645773687	geckodriver	INFO	Listening on 127.0.0.1:43289
+1721645774195	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles5GaVT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721645774742	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721645775143	Marionette	INFO	Listening on port 35925
+WebDriver BiDi listening on ws://127.0.0.1:38869
+Read port: 35925
+1721645775288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38869/devtools/browser/bd9717af-c74a-42db-abb8-2da7c39d8c0d
+[Parent 7624, IPC I/O Parent] WARNING: process 7761 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/global.client.9f38742e.js, line 1: ChunkLoadError: Loading chunk 41655 failed after 2 retries.
+(web.chunk.client.6afb2bd5.js)
+JavaScript error: https://www.chess.com/bundles/app/js/global.client.9f38742e.js, line 1: ChunkLoadError: Loading chunk 41655 failed after 2 retries.
+(web.chunk.client.6afb2bd5.js)
+1721645804877	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1721645820336	Marionette	INFO	Stopped listening on port 35925
+[Parent 7624, IPC I/O Parent] WARNING: process 7828 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7624, IPC I/O Parent] WARNING: process 7731 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7624, IPC I/O Parent] WARNING: process 7833 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7624, IPC I/O Parent] WARNING: process 7840 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 7624, IPC I/O Parent] WARNING: process 7911 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721648017049	geckodriver	INFO	Listening on 127.0.0.1:33905
+1721648017558	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegiID1E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721648018393	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721648018574	Marionette	INFO	Listening on port 44015
+WebDriver BiDi listening on ws://127.0.0.1:53517
+Read port: 44015
+1721648019011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53517/devtools/browser/9e5676e2-4a6a-4cd3-81fa-b64fbaf6fae7
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1721648020635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1721648025736	Marionette	INFO	Stopped listening on port 44015
+[Parent 8776, IPC I/O Parent] WARNING: process 8925 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8776, IPC I/O Parent] WARNING: process 8986 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8776, IPC I/O Parent] WARNING: process 8894 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8776, IPC I/O Parent] WARNING: process 8989 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8776, IPC I/O Parent] WARNING: process 9064 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 8776, IPC I/O Parent] WARNING: process 9019 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721648027998	geckodriver	INFO	Listening on 127.0.0.1:32895
+1721648028003	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1kzrJx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721648028820	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721648029010	Marionette	INFO	Listening on port 41607
+Read port: 41607
+WebDriver BiDi listening on ws://127.0.0.1:58549
+1721648029498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58549/devtools/browser/ee9e770d-c3af-4327-aa26-cd5bae9ecbe3
+1721648030974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 9103, IPC I/O Parent] WARNING: process 9311 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: http://10.26.0.1/login?dst=http%3A%2F%2Fdetectportal.firefox.com%2Fcanonical.html, line 20: unreachable code after return statement
+[Parent 9103, IPC I/O Parent] WARNING: process 9324 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: http://139.59.12.206/wifi/AcharyaIns/Login_files/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9103, IPC I/O Parent] WARNING: process 9237 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721648058933	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://139.59.12.206."
+JavaScript error: http://139.59.12.206/wifi/AcharyaIns/js/jquery-1.12.4.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: http://139.59.12.206/wifi/AcharyaIns/js/jquery-1.12.4.min.js, line 4: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+[Parent 9103, IPC I/O Parent] WARNING: process 9378 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript warning: http://10.26.0.1/login, line 20: unreachable code after return statement
+JavaScript warning: http://139.59.12.206/wifi/AcharyaIns/Login_files/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9103, IPC I/O Parent] WARNING: process 9419 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721648084582	Marionette	INFO	Stopped listening on port 41607
+[Parent 9103, IPC I/O Parent] WARNING: process 9298 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9103, IPC I/O Parent] WARNING: process 9209 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9103, IPC I/O Parent] WARNING: process 9519 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9103, IPC I/O Parent] WARNING: process 9524 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9103, IPC I/O Parent] WARNING: process 9425 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721648086822	geckodriver	INFO	Listening on 127.0.0.1:54853
+1721648086827	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2IvD1p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721648087655	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721648087854	Marionette	INFO	Listening on port 37723
+Read port: 37723
+WebDriver BiDi listening on ws://127.0.0.1:50073
+1721648088289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50073/devtools/browser/7d687818-c8ec-465f-a8df-785d3d13adb0
+1721648098622	Marionette	INFO	Stopped listening on port 37723
+[Parent 9584, IPC I/O Parent] WARNING: process 9720 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9584, IPC I/O Parent] WARNING: process 9692 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+[Parent 9584, IPC I/O Parent] WARNING: process 9828 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9584, IPC I/O Parent] WARNING: process 9790 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9584, IPC I/O Parent] WARNING: process 9783 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721648100654	geckodriver	INFO	Listening on 127.0.0.1:41855
+1721648100658	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIV2aAk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721648101482	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721648101661	Marionette	INFO	Listening on port 42057
+Read port: 42057
+WebDriver BiDi listening on ws://127.0.0.1:57981
+1721648102087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57981/devtools/browser/8069b379-3e61-4ff4-b5ad-8b33f5b64710
+1721648103495	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1721648107545	Marionette	INFO	Stopped listening on port 42057
+[Parent 9920, IPC I/O Parent] WARNING: process 10056 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9920, IPC I/O Parent] WARNING: process 10116 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9920, IPC I/O Parent] WARNING: process 10028 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9920, IPC I/O Parent] WARNING: process 10123 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9920, IPC I/O Parent] WARNING: process 10140 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 9920, IPC I/O Parent] WARNING: process 10183 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721731721839	geckodriver	INFO	Listening on 127.0.0.1:54547
+1721731722343	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqfXuVV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721731723334	Marionette	INFO	Marionette enabled
+1721731723543	Marionette	INFO	Listening on port 38141
+Read port: 38141
+WebDriver BiDi listening on ws://127.0.0.1:59313
+1721731723984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59313/devtools/browser/15f08203-2256-4ca6-8cb5-b1a19e582368
+[Parent 3447, IPC I/O Parent] WARNING: process 3590 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.52276ff3.js, line 1: Error: Request aborted
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.52276ff3.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+1721731753404	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+1721731766320	Marionette	INFO	Stopped listening on port 38141
+JavaScript warning: https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js, line 1: Script terminated by timeout at:
+__webpack_require__.f.miniCss@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:67815
+__webpack_require__.e/<@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:1417
+__webpack_require__.e@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:1365
+__webpack_require__.e@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:63341
+createUserPopover@https://www.chess.com/bundles/app/js/global-app-init.chunk.client.d67ab087.js:1:66367
+init@https://www.chess.com/bundles/app/js/global-app-init.chunk.client.d67ab087.js:1:66067
+initClient@https://www.chess.com/bundles/app/js/vue.dll.c215675e.js:26:11510
+4750/initClients/t</</<@https://www.chess.com/bundles/app/js/vue.dll.c215675e.js:26:15998
+4750/initClients/t</<@https://www.chess.com/bundles/app/js/vue.dll.c215675e.js:26:15981
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:69862
+
+[Parent 3447, IPC I/O Parent] WARNING: process 3560 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3447, IPC I/O Parent] WARNING: process 3661 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3447, IPC I/O Parent] WARNING: process 3691 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3447, IPC I/O Parent] WARNING: process 3743 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3447, IPC I/O Parent] WARNING: process 3824 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721731805972	geckodriver	INFO	Listening on 127.0.0.1:42065
+1721731805977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFoYZ0t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721731806792	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721731806983	Marionette	INFO	Listening on port 36915
+Read port: 36915
+WebDriver BiDi listening on ws://127.0.0.1:39619
+1721731807415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39619/devtools/browser/bf73f76a-32a5-4489-a8a1-1e2bb6896df7
+[Parent 3908, IPC I/O Parent] WARNING: process 4044 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1721731836817	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://player.kick.com/_ca/b.js, line 1: Script terminated by timeout at:
+h/<@https://player.kick.com/_ca/b.js:1:10886
+t@https://player.kick.com/_ca/b.js:1:10357
+
+[Parent 3908, IPC I/O Parent] WARNING: process 4112 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1721731902529	Marionette	INFO	Stopped listening on port 36915
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73, line 395: Script terminated by timeout at:
+event@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:395:40
+jy@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:404:477
+ly@https://www.googletagmanager.com/gtm.js?id=GTM-WQJVC73:406:43
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:69862
+
+[Parent 3908, IPC I/O Parent] WARNING: process 4016 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3908, IPC I/O Parent] WARNING: process 4149 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 3908, IPC I/O Parent] WARNING: process 4104 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721732003564	geckodriver	INFO	Listening on 127.0.0.1:57173
+1721732003569	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHB4MtA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721732004401	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721732004583	Marionette	INFO	Listening on port 39093
+Read port: 39093
+WebDriver BiDi listening on ws://127.0.0.1:48155
+1721732005012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48155/devtools/browser/bfbbd6f6-73e4-4cde-8658-bc11f3d7f0c6
+[Parent 4434, IPC I/O Parent] WARNING: process 4570 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+JavaScript error: , line 0: uncaught exception: Object
+1721732034428	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:69710
+
+1721732050560	Marionette	INFO	Stopped listening on port 39093
+[Parent 4434, IPC I/O Parent] WARNING: process 4634 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4434, IPC I/O Parent] WARNING: process 4540 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/cfr-srg getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+[Parent 4434, IPC I/O Parent] WARNING: process 4656 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4434, IPC I/O Parent] WARNING: process 4659 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4434, IPC I/O Parent] WARNING: process 4705 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721732053317	geckodriver	INFO	Listening on 127.0.0.1:44815
+1721732053322	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledguCKf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721732054173	Marionette	INFO	Marionette enabled
+1721732054359	Marionette	INFO	Listening on port 38169
+Read port: 38169
+WebDriver BiDi listening on ws://127.0.0.1:49627
+1721732054782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49627/devtools/browser/1be29fbe-7730-495e-9a63-33d80a3ddf2d
+1721732059943	Marionette	INFO	Stopped listening on port 38169
+[Parent 4795, IPC I/O Parent] WARNING: process 4930 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4795, IPC I/O Parent] WARNING: process 4991 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4795, IPC I/O Parent] WARNING: process 4902 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+[Parent 4795, IPC I/O Parent] WARNING: process 4999 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 4795, IPC I/O Parent] WARNING: process 5036 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721732070898	geckodriver	INFO	Listening on 127.0.0.1:37451
+1721732070902	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKOwHx7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721732071725	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721732071906	Marionette	INFO	Listening on port 40491
+Read port: 40491
+WebDriver BiDi listening on ws://127.0.0.1:39987
+1721732072331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39987/devtools/browser/066b8e10-2a5d-4753-9ef5-0dbaf3e0db6b
+[Parent 5079, IPC I/O Parent] WARNING: process 5214 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721732101748	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.52276ff3.js, line 1: Error: Request aborted
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:69710
+
+1721732124327	Marionette	INFO	Stopped listening on port 40491
+[Parent 5079, IPC I/O Parent] WARNING: process 5278 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5079, IPC I/O Parent] WARNING: process 5186 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5079, IPC I/O Parent] WARNING: process 5285 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5079, IPC I/O Parent] WARNING: process 5350 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5079, IPC I/O Parent] WARNING: process 5322 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+1721732127842	geckodriver	INFO	Listening on 127.0.0.1:38431
+1721732127847	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletDkGVw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1721732128702	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1721732128886	Marionette	INFO	Listening on port 44207
+Read port: 44207
+WebDriver BiDi listening on ws://127.0.0.1:34117
+1721732129321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34117/devtools/browser/f4b2c3d2-c235-4f6a-b418-dbee4a79dd89
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.52276ff3.js, line 1: Error: Request aborted
+[Parent 5433, IPC I/O Parent] WARNING: process 5568 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.52276ff3.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+1721732158720	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.d9c4e858.js, line 1: Error: Request aborted
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.80fffeff.js, line 1: Error: Request aborted
+1721732164150	Marionette	INFO	Stopped listening on port 44207
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js, line 14: Script terminated by timeout at:
+getFunctionName@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:28157
+_wrapTimeFunction/<@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:75956
+__webpack_require__.l@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:62683
+__webpack_require__.f.j@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:68451
+__webpack_require__.e/<@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:1417
+__webpack_require__.e@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:1365
+__webpack_require__.e@https://www.chess.com/bundles/app/js/global.client.4ea50eb9.js:1:63341
+createUserPopover@https://www.chess.com/bundles/app/js/global-app-init.chunk.client.d67ab087.js:1:66389
+init@https://www.chess.com/bundles/app/js/global-app-init.chunk.client.d67ab087.js:1:66067
+initClient@https://www.chess.com/bundles/app/js/vue.dll.c215675e.js:26:11510
+4750/initClients/t</</<@https://www.chess.com/bundles/app/js/vue.dll.c215675e.js:26:15998
+4750/initClients/t</<@https://www.chess.com/bundles/app/js/vue.dll.c215675e.js:26:15981
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.7efe435a.js:14:69862
+
+[Parent 5433, IPC I/O Parent] WARNING: process 5538 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5433, IPC I/O Parent] WARNING: process 5631 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+[Parent 5433, IPC I/O Parent] WARNING: process 5638 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5433, IPC I/O Parent] WARNING: process 5675 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5433, IPC I/O Parent] WARNING: process 5716 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
+[Parent 5433, IPC I/O Parent] WARNING: process 5794 is a zombie: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:245
